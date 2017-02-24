@@ -1,3 +1,5 @@
+%{?_javapackages_macros:%_javapackages_macros}
+
 Name:          httpcomponents-asyncclient
 Version:       4.1.2
 Release:       1
