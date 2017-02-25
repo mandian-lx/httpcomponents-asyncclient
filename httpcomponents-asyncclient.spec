@@ -18,6 +18,7 @@ BuildRequires: mvn(org.apache.httpcomponents:httpclient)
 BuildRequires: mvn(org.apache.httpcomponents:httpcore)
 BuildRequires: mvn(org.apache.httpcomponents:httpcore-nio)
 BuildRequires: mvn(org.apache.httpcomponents:project:pom:)
+BuildRequires: mvn(org.apache.maven.plugins:maven-site-plugin)
 BuildRequires: mvn(org.codehaus.mojo:build-helper-maven-plugin)
 BuildRequires: mvn(org.mockito:mockito-core)
 
